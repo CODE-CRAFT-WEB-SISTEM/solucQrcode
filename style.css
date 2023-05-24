@@ -36,7 +36,7 @@ img[alt="qrCodeImg"]{
   gap: 1rem;
   padding: 0 1rem 2rem 1rem;
 }
-.textContent h2{
+.textContent h1{
   font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
