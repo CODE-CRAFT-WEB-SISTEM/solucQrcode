@@ -15,7 +15,7 @@ img[alt="qrCodeImg"]{
 }
 .qrCodeContainer{
   max-width: 360px;
-  min-width: 350px;
+  min-width: 357px;
   background-color: hsl(0, 0%, 100%);
   padding: 1rem;
   display: flex;
